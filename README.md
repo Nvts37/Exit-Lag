@@ -1,3 +1,6 @@
+
+![photo_2025-03-19_22-05-16](https://github.com/user-attachments/assets/cd39fe4c-283d-4fdd-b259-6a2b5b657865)
+
 # ExitLag
 
 **Optimize your internet connection and reduce lag in online games!**
