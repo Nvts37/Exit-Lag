@@ -1,5 +1,10 @@
+<img src="https://github.com/user-attachments/assets/739988ca-d6ae-43ba-8b65-82199560f3a8" width="800"/>
 
-![photo_2025-03-19_22-05-16](https://github.com/user-attachments/assets/cd39fe4c-283d-4fdd-b259-6a2b5b657865)
+
+
+
+
+
 
 # ExitLag
 
