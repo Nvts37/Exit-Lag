@@ -1,3 +1,4 @@
+# ExitLag - Cracked 2025 version!
 <img src="https://github.com/user-attachments/assets/739988ca-d6ae-43ba-8b65-82199560f3a8" width="800"/>
 
 # ExitLag
